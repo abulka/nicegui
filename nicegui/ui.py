@@ -3,6 +3,7 @@ import os
 from .deprecation import deprecated
 from .element import Element as element
 from .elements.aggrid import AgGrid as aggrid
+from .elements.andy1 import Andy1 as andy1
 from .elements.audio import Audio as audio
 from .elements.avatar import Avatar as avatar
 from .elements.badge import Badge as badge
@@ -46,6 +47,7 @@ from .elements.select import Select as select
 from .elements.separator import Separator as separator
 from .elements.slider import Slider as slider
 from .elements.spinner import Spinner as spinner
+from .elements.splitter import Splitter as splitter
 from .elements.switch import Switch as switch
 from .elements.table import Table as table
 from .elements.tabs import Tab as tab
